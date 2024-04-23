@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/28275/Desktop/Hardware_train/first_train/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c C:\\Users\\28275\\Desktop\\Hardware_train\\first_train\\src\\main.c",
+  "file": "C:/Users/28275/Desktop/Hardware_train/first_train/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.obj"
+},
+{
+  "directory": "C:/Users/28275/Desktop/Hardware_train/first_train/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\print.obj -c C:\\Users\\28275\\Desktop\\Hardware_train\\first_train\\src\\print.c",
+  "file": "C:/Users/28275/Desktop/Hardware_train/first_train/src/print.c",
+  "output": "CMakeFiles/main.dir/src/print.obj"
+},
+{
+  "directory": "C:/Users/28275/Desktop/Hardware_train/first_train/build",
+  "command": "D:\\MinGW\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\print1.obj -c C:\\Users\\28275\\Desktop\\Hardware_train\\first_train\\src\\print1.c",
+  "file": "C:/Users/28275/Desktop/Hardware_train/first_train/src/print1.c",
+  "output": "CMakeFiles/main.dir/src/print1.obj"
+}
+]
